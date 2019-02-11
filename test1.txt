@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 2A2C-6057
-
- Directory of C:\Users\DELL\Desktop\sanjeeb
-
-11-02-2019  23:30    <DIR>          .
-11-02-2019  23:30    <DIR>          ..
-11-02-2019  23:30                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  901,841,817,600 bytes free
+channel
